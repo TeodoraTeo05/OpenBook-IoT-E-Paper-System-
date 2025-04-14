@@ -15,9 +15,9 @@ OpenBook este un dispozitiv portabil de tip e-book reader bazat pe ESP32-C6. Dis
 | Part | Device | Datasheet |
 |------|--------|-----------|
 | CHG_LED | ADAFRUIT_LEDCHIP-LED0603 | [ADAFRUIT_LEDCHIP-LED0603](https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/view-part/?ref=search&t=LED%200603) |
-| SJ1 | SJ | [SJ](N/A) |
-| EPD_C5 | EAGLE-LTSPICE_CC0402 | [EAGLE-LTSPICE_CC0402](N/A) |
-| R3 | ESP32_WROVER_EAGLE-LTSPICE_RR0402 | [ESP32_WROVER_EAGLE-LTSPICE_RR0402](N/A) |
+| SJ1 | SJ | [SJ](https://grabcad.com/library/solder-jumpers-1) |
+| EPD_C5 | EAGLE-LTSPICE_CC0402 | [EAGLE-LTSPICE_CC0402](https://www.snapeda.com/parts/PGB1010603MR/Littelfuse/view-part/?ref=eda) |
+| R3 | ESP32_WROVER_EAGLE-LTSPICE_RR0402 | [ESP32_WROVER_EAGLE-LTSPICE_RR0402](https://componentsearchengine.com/part-view/R0402%201%25%20100%20K%20(RC0402FR-07100KL) |
 | R1_PWRUSB | ESP32_WROVER_EAGLE-LTSPICE_RR0402 | [ESP32_WROVER_EAGLE-LTSPICE_RR0402](N/A) |
 | C4_USB | EAGLE-LTSPICE_CC0402 | [EAGLE-LTSPICE_CC0402](N/A) |
 | C1, C2, C6, C8, C9, C10, C_DELAY | ESP32_WROVER_EAGLE-LTSPICE_CC0402 | [ESP32_WROVER_EAGLE-LTSPICE_CC0402](N/A) |

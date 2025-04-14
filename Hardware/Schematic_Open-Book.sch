@@ -339,114 +339,156 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <vertex x="2.7533" y="2.6543"/>
 <vertex x="0.7467" y="2.6543"/>
 <vertex x="0.7467" y="1.6661"/>
-<vertex x="0.997596875" y="1.50230625"/>
-<vertex x="0.998384375" y="1.502384375"/>
-<vertex x="1.00190625" y="1.49949375"/>
-<vertex x="1.005740625" y="1.496990625"/>
-<vertex x="1.005903125" y="1.4962125"/>
-<vertex x="1.271259375" y="1.2784375"/>
-<vertex x="1.272659375" y="1.2783"/>
-<vertex x="1.275203125" y="1.275203125"/>
-<vertex x="1.2783" y="1.272659375"/>
-<vertex x="1.2784375" y="1.271259375"/>
-<vertex x="1.4962625" y="1.005846875"/>
-<vertex x="1.4976125" y="1.0054375"/>
-<vertex x="1.499503125" y="1.001896875"/>
-<vertex x="1.50204375" y="0.998803125"/>
-<vertex x="1.50190625" y="0.997403125"/>
-<vertex x="1.66369375" y="0.69460625"/>
-<vertex x="1.6649375" y="0.693940625"/>
-<vertex x="1.666103125" y="0.6901"/>
-<vertex x="1.667990625" y="0.686565625"/>
-<vertex x="1.66758125" y="0.685221875"/>
-<vertex x="1.767234375" y="0.356634375"/>
-<vertex x="1.7688625" y="0.354825"/>
-<vertex x="1.768703125" y="0.3518"/>
-<vertex x="1.76958125" y="0.3489"/>
-<vertex x="1.768434375" y="0.346753125"/>
+<vertex x="0.99759375" y="1.502309375"/>
+<vertex x="0.998378125" y="1.5023875"/>
+<vertex x="0.998925" y="1.5019375"/>
+<vertex x="0.999646875" y="1.5019375"/>
+<vertex x="1.00243125" y="1.499153125"/>
+<vertex x="1.005734375" y="1.496996875"/>
+<vertex x="1.0059" y="1.496215625"/>
+<vertex x="1.2712625" y="1.278434375"/>
+<vertex x="1.2726625" y="1.278296875"/>
+<vertex x="1.27520625" y="1.2752"/>
+<vertex x="1.278303125" y="1.27265625"/>
+<vertex x="1.278440625" y="1.27125625"/>
+<vertex x="1.49558125" y="1.006678125"/>
+<vertex x="1.49589375" y="1.006634375"/>
+<vertex x="1.496565625" y="1.005740625"/>
+<vertex x="1.497621875" y="1.00541875"/>
+<vertex x="1.4977" y="1.005271875"/>
+<vertex x="1.4978875" y="1.005209375"/>
+<vertex x="1.49960625" y="1.001775"/>
+<vertex x="1.502034375" y="0.998815625"/>
+<vertex x="1.502003125" y="0.998490625"/>
+<vertex x="1.502215625" y="0.99820625"/>
+<vertex x="1.502059375" y="0.9971125"/>
+<vertex x="1.663690625" y="0.694609375"/>
+<vertex x="1.6649375" y="0.69394375"/>
+<vertex x="1.665540625" y="0.691953125"/>
+<vertex x="1.667009375" y="0.690484375"/>
+<vertex x="1.667009375" y="0.6884"/>
+<vertex x="1.6679875" y="0.68656875"/>
+<vertex x="1.66758125" y="0.685228125"/>
+<vertex x="1.7672375" y="0.356628125"/>
+<vertex x="1.768865625" y="0.35481875"/>
+<vertex x="1.76870625" y="0.35179375"/>
+<vertex x="1.769584375" y="0.34889375"/>
+<vertex x="1.7684375" y="0.346746875"/>
 <vertex x="1.75" y="0"/>
-<vertex x="1.768434375" y="-0.346753125"/>
-<vertex x="1.76958125" y="-0.3489"/>
-<vertex x="1.768703125" y="-0.3518"/>
-<vertex x="1.7688625" y="-0.354825"/>
-<vertex x="1.767234375" y="-0.356634375"/>
-<vertex x="1.66758125" y="-0.685221875"/>
-<vertex x="1.667990625" y="-0.686565625"/>
-<vertex x="1.666103125" y="-0.6901"/>
-<vertex x="1.6649375" y="-0.693940625"/>
-<vertex x="1.66369375" y="-0.69460625"/>
-<vertex x="1.50190625" y="-0.997403125"/>
-<vertex x="1.50204375" y="-0.998803125"/>
-<vertex x="1.499503125" y="-1.001896875"/>
-<vertex x="1.4976125" y="-1.0054375"/>
-<vertex x="1.4962625" y="-1.005846875"/>
-<vertex x="1.2784375" y="-1.271259375"/>
-<vertex x="1.2783" y="-1.272659375"/>
-<vertex x="1.275203125" y="-1.275203125"/>
-<vertex x="1.272659375" y="-1.2783"/>
-<vertex x="1.271259375" y="-1.2784375"/>
-<vertex x="1.005903125" y="-1.4962125"/>
-<vertex x="1.005740625" y="-1.496990625"/>
-<vertex x="1.00190625" y="-1.49949375"/>
-<vertex x="0.998384375" y="-1.502384375"/>
-<vertex x="0.997596875" y="-1.50230625"/>
+<vertex x="1.7684375" y="-0.346746875"/>
+<vertex x="1.769584375" y="-0.34889375"/>
+<vertex x="1.76870625" y="-0.35179375"/>
+<vertex x="1.768865625" y="-0.35481875"/>
+<vertex x="1.7672375" y="-0.356628125"/>
+<vertex x="1.66758125" y="-0.685228125"/>
+<vertex x="1.6679875" y="-0.68656875"/>
+<vertex x="1.667009375" y="-0.6884"/>
+<vertex x="1.667009375" y="-0.690484375"/>
+<vertex x="1.665540625" y="-0.691953125"/>
+<vertex x="1.6649375" y="-0.69394375"/>
+<vertex x="1.663690625" y="-0.694609375"/>
+<vertex x="1.502059375" y="-0.9971125"/>
+<vertex x="1.502215625" y="-0.99820625"/>
+<vertex x="1.502003125" y="-0.998490625"/>
+<vertex x="1.502034375" y="-0.998815625"/>
+<vertex x="1.49960625" y="-1.001775"/>
+<vertex x="1.4978875" y="-1.005209375"/>
+<vertex x="1.4977" y="-1.005271875"/>
+<vertex x="1.497621875" y="-1.00541875"/>
+<vertex x="1.496565625" y="-1.005740625"/>
+<vertex x="1.49589375" y="-1.006634375"/>
+<vertex x="1.49558125" y="-1.006678125"/>
+<vertex x="1.278434375" y="-1.2712625"/>
+<vertex x="1.278296875" y="-1.2726625"/>
+<vertex x="1.2752" y="-1.27520625"/>
+<vertex x="1.27265625" y="-1.278303125"/>
+<vertex x="1.27125625" y="-1.278440625"/>
+<vertex x="1.0058875" y="-1.496225"/>
+<vertex x="1.005725" y="-1.497"/>
+<vertex x="1.00503125" y="-1.497453125"/>
+<vertex x="1.00476875" y="-1.49824375"/>
+<vertex x="1.00190625" y="-1.499675"/>
+<vertex x="0.99964375" y="-1.5019375"/>
+<vertex x="0.998925" y="-1.5019375"/>
+<vertex x="0.998378125" y="-1.5023875"/>
+<vertex x="0.997590625" y="-1.502309375"/>
 <vertex x="0.7467" y="-1.6661"/>
 </polygon>
 <polygon width="0.0254" layer="1" pour="solid">
 <vertex x="-2.7533" y="-2.6543"/>
 <vertex x="-0.7467" y="-2.6543"/>
 <vertex x="-0.7467" y="-1.6661"/>
-<vertex x="-0.997596875" y="-1.50230625"/>
-<vertex x="-0.998384375" y="-1.502384375"/>
-<vertex x="-1.00190625" y="-1.49949375"/>
-<vertex x="-1.005740625" y="-1.496990625"/>
-<vertex x="-1.005903125" y="-1.4962125"/>
-<vertex x="-1.271259375" y="-1.2784375"/>
-<vertex x="-1.272659375" y="-1.2783"/>
-<vertex x="-1.275203125" y="-1.275203125"/>
-<vertex x="-1.2783" y="-1.272659375"/>
-<vertex x="-1.2784375" y="-1.271259375"/>
-<vertex x="-1.4962625" y="-1.005846875"/>
-<vertex x="-1.4976125" y="-1.0054375"/>
-<vertex x="-1.499503125" y="-1.001896875"/>
-<vertex x="-1.50204375" y="-0.998803125"/>
-<vertex x="-1.50190625" y="-0.997403125"/>
-<vertex x="-1.66369375" y="-0.69460625"/>
-<vertex x="-1.6649375" y="-0.693940625"/>
-<vertex x="-1.666103125" y="-0.6901"/>
-<vertex x="-1.667990625" y="-0.686565625"/>
-<vertex x="-1.66758125" y="-0.685221875"/>
-<vertex x="-1.767234375" y="-0.356634375"/>
-<vertex x="-1.7688625" y="-0.354825"/>
-<vertex x="-1.768703125" y="-0.3518"/>
-<vertex x="-1.76958125" y="-0.3489"/>
-<vertex x="-1.768434375" y="-0.346753125"/>
+<vertex x="-0.99759375" y="-1.502309375"/>
+<vertex x="-0.998378125" y="-1.5023875"/>
+<vertex x="-0.998925" y="-1.5019375"/>
+<vertex x="-0.999646875" y="-1.5019375"/>
+<vertex x="-1.00243125" y="-1.499153125"/>
+<vertex x="-1.005734375" y="-1.496996875"/>
+<vertex x="-1.005896875" y="-1.496215625"/>
+<vertex x="-1.27125625" y="-1.278440625"/>
+<vertex x="-1.27265625" y="-1.278303125"/>
+<vertex x="-1.2752" y="-1.27520625"/>
+<vertex x="-1.278296875" y="-1.2726625"/>
+<vertex x="-1.278434375" y="-1.2712625"/>
+<vertex x="-1.49558125" y="-1.006678125"/>
+<vertex x="-1.49589375" y="-1.006634375"/>
+<vertex x="-1.496565625" y="-1.005740625"/>
+<vertex x="-1.497621875" y="-1.00541875"/>
+<vertex x="-1.4977" y="-1.005271875"/>
+<vertex x="-1.4978875" y="-1.005209375"/>
+<vertex x="-1.49960625" y="-1.001775"/>
+<vertex x="-1.502034375" y="-0.998815625"/>
+<vertex x="-1.502003125" y="-0.998490625"/>
+<vertex x="-1.502215625" y="-0.99820625"/>
+<vertex x="-1.502059375" y="-0.9971125"/>
+<vertex x="-1.663690625" y="-0.694609375"/>
+<vertex x="-1.6649375" y="-0.69394375"/>
+<vertex x="-1.665540625" y="-0.691953125"/>
+<vertex x="-1.667009375" y="-0.690484375"/>
+<vertex x="-1.667009375" y="-0.6884"/>
+<vertex x="-1.6679875" y="-0.68656875"/>
+<vertex x="-1.66758125" y="-0.685228125"/>
+<vertex x="-1.7672375" y="-0.356628125"/>
+<vertex x="-1.768865625" y="-0.35481875"/>
+<vertex x="-1.76870625" y="-0.35179375"/>
+<vertex x="-1.769584375" y="-0.34889375"/>
+<vertex x="-1.7684375" y="-0.346746875"/>
 <vertex x="-1.75" y="0"/>
-<vertex x="-1.768434375" y="0.346753125"/>
-<vertex x="-1.76958125" y="0.3489"/>
-<vertex x="-1.768703125" y="0.3518"/>
-<vertex x="-1.7688625" y="0.354825"/>
-<vertex x="-1.767234375" y="0.356634375"/>
-<vertex x="-1.66758125" y="0.685221875"/>
-<vertex x="-1.667990625" y="0.686565625"/>
-<vertex x="-1.666103125" y="0.6901"/>
-<vertex x="-1.6649375" y="0.693940625"/>
-<vertex x="-1.66369375" y="0.69460625"/>
-<vertex x="-1.50190625" y="0.997403125"/>
-<vertex x="-1.50204375" y="0.998803125"/>
-<vertex x="-1.499503125" y="1.001896875"/>
-<vertex x="-1.4976125" y="1.0054375"/>
-<vertex x="-1.4962625" y="1.005846875"/>
-<vertex x="-1.2784375" y="1.271259375"/>
-<vertex x="-1.2783" y="1.272659375"/>
-<vertex x="-1.275203125" y="1.275203125"/>
-<vertex x="-1.272659375" y="1.2783"/>
-<vertex x="-1.271259375" y="1.2784375"/>
-<vertex x="-1.005903125" y="1.4962125"/>
-<vertex x="-1.005740625" y="1.496990625"/>
-<vertex x="-1.00190625" y="1.49949375"/>
-<vertex x="-0.998384375" y="1.502384375"/>
-<vertex x="-0.997596875" y="1.50230625"/>
+<vertex x="-1.7684375" y="0.346746875"/>
+<vertex x="-1.769584375" y="0.34889375"/>
+<vertex x="-1.76870625" y="0.35179375"/>
+<vertex x="-1.768865625" y="0.35481875"/>
+<vertex x="-1.7672375" y="0.356628125"/>
+<vertex x="-1.66758125" y="0.685228125"/>
+<vertex x="-1.6679875" y="0.68656875"/>
+<vertex x="-1.667009375" y="0.6884"/>
+<vertex x="-1.667009375" y="0.690484375"/>
+<vertex x="-1.665540625" y="0.691953125"/>
+<vertex x="-1.6649375" y="0.69394375"/>
+<vertex x="-1.663690625" y="0.694609375"/>
+<vertex x="-1.502059375" y="0.9971125"/>
+<vertex x="-1.502215625" y="0.99820625"/>
+<vertex x="-1.502003125" y="0.998490625"/>
+<vertex x="-1.502034375" y="0.998815625"/>
+<vertex x="-1.49960625" y="1.001775"/>
+<vertex x="-1.4978875" y="1.005209375"/>
+<vertex x="-1.4977" y="1.005271875"/>
+<vertex x="-1.497621875" y="1.00541875"/>
+<vertex x="-1.496565625" y="1.005740625"/>
+<vertex x="-1.49589375" y="1.006634375"/>
+<vertex x="-1.49558125" y="1.006678125"/>
+<vertex x="-1.278440625" y="1.27125625"/>
+<vertex x="-1.278303125" y="1.27265625"/>
+<vertex x="-1.27520625" y="1.2752"/>
+<vertex x="-1.2726625" y="1.278296875"/>
+<vertex x="-1.2712625" y="1.278434375"/>
+<vertex x="-1.0059" y="1.496215625"/>
+<vertex x="-1.005734375" y="1.496996875"/>
+<vertex x="-1.00243125" y="1.499153125"/>
+<vertex x="-0.999646875" y="1.5019375"/>
+<vertex x="-0.998925" y="1.5019375"/>
+<vertex x="-0.998378125" y="1.5023875"/>
+<vertex x="-0.99759375" y="1.502309375"/>
 <vertex x="-0.7467" y="1.6661"/>
 <vertex x="-0.7467" y="2.6543"/>
 <vertex x="-2.7533" y="2.6543"/>
@@ -1272,8 +1314,8 @@ Switches electrical signals</description>
 <text x="11.43" y="3.81" size="1.778" layer="95" align="center-left">&gt;NAME</text>
 <text x="11.43" y="1.27" size="1.778" layer="96" align="center-left">&gt;VALUE</text>
 <polygon width="0.1524" layer="94" pour="solid">
-<vertex x="5.7912" y="2.50860625"/>
-<vertex x="6.9088" y="1.94980625"/>
+<vertex x="5.7912" y="2.508609375"/>
+<vertex x="6.9088" y="1.949809375"/>
 <vertex x="6.9088" y="3.130196875"/>
 <vertex x="5.7912" y="2.571396875"/>
 </polygon>
@@ -2607,15 +2649,15 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <part name="R_RESET" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.HNwkjEvcS46-hlpPYGOsPA" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
 <part name="SUPPLY9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.HNwkjEvcS46-hlpPYGOsPA" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="SUPPLY10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.HNwkjEvcS46-hlpPYGOsPA" deviceset="3V3-CIRCLE" device="" value="3V3"/>
-<part name="U$1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.HNwkjEvcS46-hlpPYGOsPA" deviceset="BUTTON_CUSYOMV1" device="" value="RESET_BUTTON"/>
+<part name="RESET_BUTTON" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.HNwkjEvcS46-hlpPYGOsPA" deviceset="BUTTON_CUSYOMV1" device="" value="RESET_BUTTON"/>
 <part name="C5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.HNwkjEvcS46-hlpPYGOsPA" deviceset="ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="1uF"/>
 <part name="GND29" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.HNwkjEvcS46-hlpPYGOsPA" deviceset="GND" device=""/>
 <part name="R_BOOT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.HNwkjEvcS46-hlpPYGOsPA" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
 <part name="R_CHANGE" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.HNwkjEvcS46-hlpPYGOsPA" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
 <part name="SUPPLY11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.HNwkjEvcS46-hlpPYGOsPA" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="SUPPLY12" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.HNwkjEvcS46-hlpPYGOsPA" deviceset="3V3-CIRCLE" device="" value="3V3"/>
-<part name="U$2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.HNwkjEvcS46-hlpPYGOsPA" deviceset="BUTTON_CUSYOMV1" device="" value="BOOT_BUTTON"/>
-<part name="U$3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.HNwkjEvcS46-hlpPYGOsPA" deviceset="BUTTON_CUSYOMV1" device="" value="CHANGE_BUTTON"/>
+<part name="BOOT_BUTTON" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.HNwkjEvcS46-hlpPYGOsPA" deviceset="BUTTON_CUSYOMV1" device="" value="BOOT_BUTTON"/>
+<part name="CHANGE_BUTTON" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.HNwkjEvcS46-hlpPYGOsPA" deviceset="BUTTON_CUSYOMV1" device="" value="CHANGE_BUTTON"/>
 <part name="C6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.HNwkjEvcS46-hlpPYGOsPA" deviceset="ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
 <part name="C10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.HNwkjEvcS46-hlpPYGOsPA" deviceset="ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
 <part name="GND30" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.HNwkjEvcS46-hlpPYGOsPA" deviceset="GND" device=""/>
@@ -2760,7 +2802,6 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 </instance>
 <instance part="J2" gate="G$1" x="-60.96" y="381" smashed="yes">
 <attribute name="NAME" x="-54.61" y="386.08" size="1.778" layer="95" align="center-left"/>
-<attribute name="VALUE" x="-39.37" y="386.08" size="1.778" layer="96" align="center-left"/>
 </instance>
 <instance part="PFMF.050.1" gate="G$1" x="-83.82" y="393.7" smashed="yes">
 <attribute name="NAME" x="-88.9" y="397.51" size="1.778" layer="95"/>
@@ -2871,13 +2912,13 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <instance part="GND14" gate="1" x="15.24" y="335.28" smashed="yes" rot="R90">
 <attribute name="VALUE" x="17.78" y="332.74" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R4" gate="G$1" x="30.48" y="320.04" smashed="yes" rot="R90">
-<attribute name="NAME" x="34.0614" y="316.23" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="28.702" y="318.77" size="1.778" layer="96" rot="R90"/>
+<instance part="R4" gate="G$1" x="30.48" y="320.04" smashed="yes" rot="R270">
+<attribute name="NAME" x="26.8986" y="323.85" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="32.258" y="321.31" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="R3" gate="G$1" x="43.18" y="314.96" smashed="yes" rot="R90">
-<attribute name="VALUE" x="41.402" y="313.69" size="1.778" layer="96" rot="R90"/>
-<attribute name="NAME" x="46.7614" y="313.69" size="1.778" layer="95" rot="R90"/>
+<instance part="R3" gate="G$1" x="43.18" y="314.96" smashed="yes" rot="R270">
+<attribute name="VALUE" x="44.958" y="316.23" size="1.778" layer="96" rot="R270"/>
+<attribute name="NAME" x="39.5986" y="316.23" size="1.778" layer="95" rot="R270"/>
 </instance>
 <instance part="Q3" gate="G$1" x="35.56" y="330.2" smashed="yes">
 <attribute name="NAME" x="46.99" y="334.01" size="1.778" layer="95" align="center-left"/>
@@ -3070,9 +3111,8 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <instance part="SUPPLY10" gate="G$1" x="152.4" y="256.54" smashed="yes" rot="R270">
 <attribute name="VALUE" x="155.575" y="256.667" size="1.778" layer="96" rot="R270" align="bottom-center"/>
 </instance>
-<instance part="U$1" gate="G$1" x="157.48" y="246.38" smashed="yes" rot="R90">
-<attribute name="VALUE" x="150.114" y="243.84" size="1.4224" layer="96" font="vector" rot="R90" align="top-center"/>
-<attribute name="NAME" x="152.654" y="246.38" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<instance part="RESET_BUTTON" gate="G$1" x="157.48" y="246.38" smashed="yes" rot="R90">
+<attribute name="NAME" x="152.654" y="243.84" size="1.4224" layer="95" font="vector" rot="R90" align="bottom-center"/>
 </instance>
 <instance part="C5" gate="G$1" x="165.1" y="246.38" smashed="yes">
 <attribute name="NAME" x="166.624" y="246.761" size="1.778" layer="95"/>
@@ -3098,13 +3138,11 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <instance part="SUPPLY12" gate="G$1" x="200.66" y="274.32" smashed="yes">
 <attribute name="VALUE" x="200.533" y="277.495" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="U$2" gate="G$1" x="180.34" y="246.38" smashed="yes" rot="R90">
-<attribute name="VALUE" x="172.974" y="243.84" size="1.4224" layer="96" font="vector" rot="R90" align="top-center"/>
-<attribute name="NAME" x="175.514" y="246.38" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<instance part="BOOT_BUTTON" gate="G$1" x="180.34" y="246.38" smashed="yes" rot="R90">
+<attribute name="NAME" x="175.514" y="243.84" size="1.4224" layer="95" font="vector" rot="R90" align="bottom-center"/>
 </instance>
-<instance part="U$3" gate="G$1" x="198.12" y="246.38" smashed="yes" rot="R90">
-<attribute name="VALUE" x="190.754" y="241.3" size="1.4224" layer="96" font="vector" rot="R90" align="top-center"/>
-<attribute name="NAME" x="193.294" y="246.38" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<instance part="CHANGE_BUTTON" gate="G$1" x="198.12" y="246.38" smashed="yes" rot="R90">
+<attribute name="NAME" x="193.294" y="243.84" size="1.4224" layer="95" font="vector" rot="R90" align="bottom-center"/>
 </instance>
 <instance part="C6" gate="G$1" x="185.42" y="246.38" smashed="yes">
 <attribute name="NAME" x="186.944" y="251.841" size="1.778" layer="95" rot="R270"/>
@@ -3424,11 +3462,6 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <pinref part="D4" gate="G$1" pin="K"/>
 </segment>
 <segment>
-<wire x1="30.48" y1="314.96" x2="30.48" y2="312.42" width="0.1524" layer="91"/>
-<pinref part="GND15" gate="1" pin="GND"/>
-<pinref part="R4" gate="G$1" pin="1"/>
-</segment>
-<segment>
 <wire x1="71.12" y1="317.5" x2="71.12" y2="309.88" width="0.1524" layer="91"/>
 <pinref part="GND16" gate="1" pin="GND"/>
 <pinref part="C1_BAT" gate="G$1" pin="2"/>
@@ -3521,8 +3554,8 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <wire x1="160.02" y1="238.76" x2="160.02" y2="236.22" width="0.1524" layer="91"/>
 <junction x="160.02" y="238.76"/>
 <pinref part="GND29" gate="1" pin="GND"/>
-<pinref part="U$1" gate="G$1" pin="1"/>
-<pinref part="U$1" gate="G$1" pin="2"/>
+<pinref part="RESET_BUTTON" gate="G$1" pin="1"/>
+<pinref part="RESET_BUTTON" gate="G$1" pin="2"/>
 <pinref part="C5" gate="G$1" pin="2"/>
 </segment>
 <segment>
@@ -3534,8 +3567,8 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <wire x1="182.88" y1="238.76" x2="182.88" y2="236.22" width="0.1524" layer="91"/>
 <junction x="182.88" y="238.76"/>
 <pinref part="GND30" gate="1" pin="GND"/>
-<pinref part="U$2" gate="G$1" pin="1"/>
-<pinref part="U$2" gate="G$1" pin="2"/>
+<pinref part="BOOT_BUTTON" gate="G$1" pin="1"/>
+<pinref part="BOOT_BUTTON" gate="G$1" pin="2"/>
 <pinref part="C6" gate="G$1" pin="2"/>
 </segment>
 <segment>
@@ -3547,8 +3580,8 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <wire x1="200.66" y1="238.76" x2="200.66" y2="236.22" width="0.1524" layer="91"/>
 <junction x="200.66" y="238.76"/>
 <pinref part="GND31" gate="1" pin="GND"/>
-<pinref part="U$3" gate="G$1" pin="1"/>
-<pinref part="U$3" gate="G$1" pin="2"/>
+<pinref part="CHANGE_BUTTON" gate="G$1" pin="1"/>
+<pinref part="CHANGE_BUTTON" gate="G$1" pin="2"/>
 <pinref part="C10" gate="G$1" pin="2"/>
 </segment>
 <segment>
@@ -3775,6 +3808,11 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <pinref part="J1" gate="G$1" pin="17"/>
 <wire x1="-48.26" y1="271.78" x2="-96.52" y2="271.78" width="0.1524" layer="91"/>
 <pinref part="GND2" gate="1" pin="GND"/>
+</segment>
+<segment>
+<pinref part="R4" gate="G$1" pin="2"/>
+<wire x1="30.48" y1="314.96" x2="30.48" y2="312.42" width="0.1524" layer="91"/>
+<pinref part="GND15" gate="1" pin="GND"/>
 </segment>
 </net>
 <net name="VUSB" class="1">
@@ -4232,10 +4270,10 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <pinref part="R2" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<wire x1="43.18" y1="309.88" x2="43.18" y2="307.34" width="0.1524" layer="91"/>
 <wire x1="43.18" y1="307.34" x2="45.72" y2="307.34" width="0.1524" layer="91"/>
 <label x="45.72" y="307.34" size="1.016" layer="95" xref="yes"/>
-<pinref part="R3" gate="G$1" pin="1"/>
+<pinref part="R3" gate="G$1" pin="2"/>
+<wire x1="43.18" y1="309.88" x2="43.18" y2="307.34" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="EPD_3V3" class="1">
@@ -4311,6 +4349,15 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <label x="12.7" y="327.66" size="1.27" layer="95" xref="yes"/>
 <pinref part="D3" gate="G$1" pin="A"/>
 </segment>
+<segment>
+<pinref part="EPD_C11" gate="G$1" pin="1"/>
+<wire x1="-71.12" y1="287.02" x2="-58.42" y2="287.02" width="0.1524" layer="91"/>
+<pinref part="J1" gate="G$1" pin="23"/>
+<wire x1="-58.42" y1="287.02" x2="-48.26" y2="287.02" width="0.1524" layer="91"/>
+<junction x="-58.42" y="287.02"/>
+<wire x1="-58.42" y1="287.02" x2="-58.42" y2="292.1" width="0.1524" layer="91"/>
+<label x="-58.42" y="292.1" size="1.016" layer="95" rot="R90" xref="yes"/>
+</segment>
 </net>
 <net name="PREVGH" class="1">
 <segment>
@@ -4318,32 +4365,41 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <label x="12.7" y="312.42" size="1.27" layer="95" xref="yes"/>
 <pinref part="D5" gate="G$1" pin="K"/>
 </segment>
+<segment>
+<pinref part="J1" gate="G$1" pin="21"/>
+<wire x1="-48.26" y1="281.94" x2="-66.04" y2="281.94" width="0.1524" layer="91"/>
+<pinref part="EPD_C9" gate="G$1" pin="1"/>
+<wire x1="-66.04" y1="281.94" x2="-76.2" y2="281.94" width="0.1524" layer="91"/>
+<junction x="-66.04" y="281.94"/>
+<wire x1="-66.04" y1="281.94" x2="-66.04" y2="292.1" width="0.1524" layer="91"/>
+<label x="-66.04" y="292.1" size="1.016" layer="95" rot="R90" xref="yes"/>
+</segment>
 </net>
 <net name="RESE" class="0">
-<segment>
-<wire x1="43.18" y1="320.04" x2="43.18" y2="325.12" width="0.1524" layer="91"/>
-<wire x1="43.18" y1="320.04" x2="43.18" y2="322.58" width="0.1524" layer="91"/>
-<wire x1="43.18" y1="322.58" x2="45.72" y2="322.58" width="0.1524" layer="91"/>
-<junction x="43.18" y="320.04"/>
-<label x="45.72" y="322.58" size="1.016" layer="95" xref="yes"/>
-<pinref part="R3" gate="G$1" pin="2"/>
-<pinref part="Q3" gate="G$1" pin="S"/>
-</segment>
 <segment>
 <pinref part="J1" gate="G$1" pin="3"/>
 <wire x1="-48.26" y1="236.22" x2="-50.8" y2="236.22" width="0.1524" layer="91"/>
 <label x="-50.8" y="236.22" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<pinref part="Q3" gate="G$1" pin="S"/>
+<wire x1="43.18" y1="325.12" x2="43.18" y2="322.58" width="0.1524" layer="91"/>
+<pinref part="R3" gate="G$1" pin="1"/>
+<wire x1="43.18" y1="322.58" x2="43.18" y2="320.04" width="0.1524" layer="91"/>
+<junction x="43.18" y="322.58"/>
+<wire x1="43.18" y1="322.58" x2="45.72" y2="322.58" width="0.1524" layer="91"/>
+<label x="45.72" y="322.58" size="1.016" layer="95" xref="yes"/>
+</segment>
 </net>
 <net name="GDR" class="0">
 <segment>
-<wire x1="30.48" y1="325.12" x2="30.48" y2="330.2" width="0.1524" layer="91"/>
 <wire x1="30.48" y1="330.2" x2="35.56" y2="330.2" width="0.1524" layer="91"/>
 <wire x1="30.48" y1="330.2" x2="30.48" y2="337.82" width="0.1524" layer="91"/>
-<junction x="30.48" y="330.2"/>
 <label x="30.48" y="337.82" size="1.016" layer="95" rot="R90" xref="yes"/>
-<pinref part="R4" gate="G$1" pin="2"/>
 <pinref part="Q3" gate="G$1" pin="G"/>
+<pinref part="R4" gate="G$1" pin="1"/>
+<wire x1="30.48" y1="325.12" x2="30.48" y2="330.2" width="0.1524" layer="91"/>
+<junction x="30.48" y="330.2"/>
 </segment>
 <segment>
 <pinref part="J1" gate="G$1" pin="2"/>
@@ -4465,8 +4521,8 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <junction x="200.66" y="254"/>
 <wire x1="200.66" y1="254" x2="210.82" y2="254" width="0.1524" layer="91"/>
 <label x="210.82" y="254" size="1.4224" layer="95" rot="R90" xref="yes"/>
-<pinref part="U$3" gate="G$1" pin="3"/>
-<pinref part="U$3" gate="G$1" pin="4"/>
+<pinref part="CHANGE_BUTTON" gate="G$1" pin="3"/>
+<pinref part="CHANGE_BUTTON" gate="G$1" pin="4"/>
 <pinref part="R_CHANGE" gate="G$1" pin="2"/>
 <pinref part="C10" gate="G$1" pin="1"/>
 </segment>
@@ -4668,7 +4724,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <junction x="160.02" y="251.46"/>
 <wire x1="165.1" y1="248.92" x2="165.1" y2="251.46" width="0.1524" layer="91"/>
 <label x="165.1" y="254" size="1.016" layer="95" rot="R90" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="4"/>
+<pinref part="RESET_BUTTON" gate="G$1" pin="4"/>
 <pinref part="R_RESET" gate="G$1" pin="2"/>
 <pinref part="C5" gate="G$1" pin="1"/>
 <pinref part="IC1" gate="G$1" pin="VOUT"/>
@@ -4774,8 +4830,8 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <junction x="182.88" y="254"/>
 <wire x1="182.88" y1="254" x2="190.5" y2="254" width="0.1524" layer="91"/>
 <label x="190.5" y="254" size="1.4224" layer="95" rot="R90" xref="yes"/>
-<pinref part="U$2" gate="G$1" pin="3"/>
-<pinref part="U$2" gate="G$1" pin="4"/>
+<pinref part="BOOT_BUTTON" gate="G$1" pin="3"/>
+<pinref part="BOOT_BUTTON" gate="G$1" pin="4"/>
 <pinref part="R_BOOT" gate="G$1" pin="2"/>
 <pinref part="C6" gate="G$1" pin="1"/>
 </segment>
@@ -4787,25 +4843,11 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <pinref part="J1" gate="G$1" pin="24"/>
 </segment>
 </net>
-<net name="N$21" class="0">
-<segment>
-<pinref part="EPD_C11" gate="G$1" pin="1"/>
-<wire x1="-71.12" y1="287.02" x2="-48.26" y2="287.02" width="0.1524" layer="91"/>
-<pinref part="J1" gate="G$1" pin="23"/>
-</segment>
-</net>
 <net name="N$22" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="22"/>
 <wire x1="-48.26" y1="284.48" x2="-55.88" y2="284.48" width="0.1524" layer="91"/>
 <pinref part="EPD_C10" gate="G$1" pin="1"/>
-</segment>
-</net>
-<net name="N$25" class="0">
-<segment>
-<pinref part="J1" gate="G$1" pin="21"/>
-<wire x1="-48.26" y1="281.94" x2="-76.2" y2="281.94" width="0.1524" layer="91"/>
-<pinref part="EPD_C9" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$23" class="0">
@@ -4880,6 +4922,24 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="104,1,93.98,332.74,MCP73831,VIN,VBUS,,,"/>
+<approved hash="104,1,114.3,327.66,MCP73831,VSS,GND,,,"/>
+<approved hash="104,1,71.12,279.4,SENSOR2,VDD,I2C_PW,,,"/>
+<approved hash="104,1,71.12,281.94,SENSOR2,VDDIO,I2C_PW,,,"/>
+<approved hash="104,1,261.62,274.32,U4,CTG,GND,,,"/>
+<approved hash="104,1,261.62,271.78,U4,CELL,VBAT,,,"/>
+<approved hash="104,1,261.62,269.24,U4,VDD,VBAT,,,"/>
+<approved hash="104,1,261.62,266.7,U4,EP,GND,,,"/>
+<approved hash="104,1,-53.34,195.58,U3,VBAT,VRTC,,,"/>
+<approved hash="104,1,-53.34,198.12,U3,VCC,3V3,,,"/>
+<approved hash="104,1,104.14,190.5,J3,1,GND,,,"/>
+<approved hash="104,1,104.14,187.96,J3,2,3V3,,,"/>
+<approved hash="104,1,259.08,210.82,U1,VCC,3V3,,,"/>
+<approved hash="113,1,87.571,288.071,FRAME1,,,,,"/>
+<approved hash="113,1,-81.28,331.81,SJ1,,,,,"/>
+<approved hash="113,1,84.0891,318.77,CHG_LED,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 <compatibility>

@@ -46,7 +46,7 @@ OpenBook este un dispozitiv portabil de tip e-book reader bazat pe ESP32-C6. Dis
 | U2 | ESP32-C6-WROOM-1-N8 | [ESP32-C6-WROOM-1-N8](https://www.snapeda.com/parts/ESP32-C6-WROOM-1-N8/Espressif+Systems/view-part/?ref=eda) |
 | PFMF.050.1 | ESP32C6_VARISTORCN1812 | [ESP32C6_VARISTORCN1812](https://www.mouser.co.uk/ProductDetail/EPCOS-TDK/B72520T0350K062?qs=dEfas%2FXlABIszF52uu7vrg%3D%3D) |
 | D2, D7 | ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0_0AVX_SD0805S020S1R0_0_0 | [ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0_0AVX_SD0805S020S1R0_0_0](https://eu.mouser.com/ProductDetail/KYOCERA-AVX/SD0805S020S1R0?qs=jCA%252BPfw4LHbpkAoSnwrdjw%3D%3D) |
-| U5 | MCP73831 | ESP32_WROVER_SPARKFUN-IC-POWER_MCP73831 | [ESP32-C6-WROOM-1-N8](https://componentsearchengine.com/part-view/MCP73831T-2ATI%2FOT/Microchip) |
+| U5 | ESP32_WROVER_SPARKFUN-IC-POWER_MCP73831 | [ESP32-C6-WROOM-1-N8](https://componentsearchengine.com/part-view/MCP73831T-2ATI%2FOT/Microchip) |
 | J1 | FH34SRJ-24S-0.5SH_99_ | [FH34SRJ-24S-0.5SH_99_](https://componentsearchengine.com/part-view/XC6220A331MR-G/Torex) |
 | U4 | MAX17048G+T10 | [MAX17048G+T10](https://www.snapeda.com/parts/MAX17048G+T10/Analog+Devices/view-part/?ref=snap) |
 | D3, D4, D5 | MBR0530 | [MBR0530](https://www.snapeda.com/parts/MBR0530/Onsemi/view-part/?ref=snap) |

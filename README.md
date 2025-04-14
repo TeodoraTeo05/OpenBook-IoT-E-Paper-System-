@@ -14,7 +14,7 @@ OpenBook este un dispozitiv portabil de tip e-book reader bazat pe ESP32-C6. Dis
 
 | Part | Device | Datasheet |
 |------|--------|-----------|
-| CHG_LED | ADAFRUIT_LEDCHIP-LED0603 | [ADAFRUIT_LEDCHIP-LED0603](N/A) |
+| CHG_LED | ADAFRUIT_LEDCHIP-LED0603 | [ADAFRUIT_LEDCHIP-LED0603](https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/view-part/?ref=search&t=LED%200603) |
 | SJ1 | SJ | [SJ](N/A) |
 | EPD_C5 | EAGLE-LTSPICE_CC0402 | [EAGLE-LTSPICE_CC0402](N/A) |
 | R3 | ESP32_WROVER_EAGLE-LTSPICE_RR0402 | [ESP32_WROVER_EAGLE-LTSPICE_RR0402](N/A) |
